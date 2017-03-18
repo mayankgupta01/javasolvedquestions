@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="EJBPractice:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EJBPractice_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="EJBPractice/ejb/EJB" />
+      <element id="module-output" name="EJBPractice" />
+    </root>
+  </artifact>
+</component>
