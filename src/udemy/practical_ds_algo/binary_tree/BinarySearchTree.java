@@ -304,6 +304,11 @@ class BinaryTree<T extends Comparable<? super T>> {
     *
     *     Determine if Tree is balanced: http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
     *
+    *     Handling duplicates in BST : http://stackoverflow.com/questions/300935/are-duplicate-keys-allowed-in-the-definition-of-binary-search-trees
+    *     Best way to handle duplicates is to use a list or use a counter for number of duplicates at the node level and represent all duplicates in the same node
+    *     Otherwise, if we use different nodes to store same values, using left child <= parent, we will run into problems
+    *     when balancing the tree.
+    *
 * */
 class Node<T>  {
     public T data;
