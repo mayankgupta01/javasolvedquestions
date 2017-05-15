@@ -1,4 +1,4 @@
-package cracking_coding_interview.chapter_1;
+package cracking_coding_interview.chapter_1.arrays_strings;
 
 import java.util.Scanner;
 
