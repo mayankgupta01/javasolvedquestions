@@ -1,12 +1,15 @@
-package hiredintech_topcoder;
+/*
+Upackage hiredintech_topcoder;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+*/
 /**
  * Created by mayank.gupta on 24/04/17.
- */
+ *//*
+
 public class Permutations {
 
     public List<char[]> permuteRecursive(String s) {
@@ -54,3 +57,4 @@ public class Permutations {
         }
     }
 }
+*/

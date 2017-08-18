@@ -74,13 +74,6 @@ public class SortedRotatedArray {
     }
 }
 
-interface I1 {
-    long m();
-}
-
-interface I2 {
-    int m();
-}
 
 /*
 interface I3 extends I1,I2 {
